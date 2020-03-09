@@ -5,9 +5,9 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using YayGourmetProject.Models;
+using YayGourmet.Models;
 
-namespace YayGourmetProject.Controllers
+namespace YayGourmet.Controllers
 {
     public class HomeController : Controller
     {

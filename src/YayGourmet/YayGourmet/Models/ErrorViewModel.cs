@@ -1,6 +1,6 @@
 using System;
 
-namespace YayGourmetProject.Models
+namespace YayGourmet.Models
 {
     public class ErrorViewModel
     {
